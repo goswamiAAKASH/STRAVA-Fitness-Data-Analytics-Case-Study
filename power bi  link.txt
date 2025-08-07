@@ -1,0 +1,9 @@
+https://app.powerbi.com/view?r=eyJrIjoiMTZkNjc2YjctMzFhMy00N2EwLThhNWEtMGFkZjU4ZTJmMzQ2IiwidCI6IjUyYTg3NmM3LTk2NzYtNGE4ZC04M2I1LTU3YjRmNDUyNGVkMSJ9 
+
+email
+
+----------------------
+
+<iframe title="power_bi_dashboard_analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMTZkNjc2YjctMzFhMy00N2EwLThhNWEtMGFkZjU4ZTJmMzQ2IiwidCI6IjUyYTg3NmM3LTk2NzYtNGE4ZC04M2I1LTU3YjRmNDUyNGVkMSJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+web
